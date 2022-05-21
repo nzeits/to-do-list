@@ -1,7 +1,9 @@
 const name = "Nicole's To Do List"
 let toDos = [
     {task: 'Food shopping'},
-    {task: 'Wash the sheets'}
+    {task: 'Wash the sheets'},
+    {task: 'Study for exam'},
+    {task: 'Schedule oil change'}
 ];
 
 function setNameInTitle(){
